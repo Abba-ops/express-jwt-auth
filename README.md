@@ -1,5 +1,7 @@
 # JWT-Auth-Learn
 
+![App Screenshot](https://i.ibb.co/RDwMk0N/Screenshot-34.png)
+
 ## Setup
 
 1. Clone this repository.
@@ -12,5 +14,3 @@
    - `SECRET`: Your secret key for JWT.
 
 4. Run `npm run dev` to start the development server.
-
-Enjoy learning! 🚀
