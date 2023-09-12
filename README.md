@@ -8,9 +8,9 @@
 
 2. Install all dependencies.
 
-3. Add an `.env` file to the root directory and include the following variables:
+3. Create an `.env` file in the root directory with the following variables:
    - `PORT`: Your preferred server port.
    - `MONGO_URI`: Your MongoDB connection URI.
-   - `SECRET`: Your secret key for JWT.
+   - `SECRET`: Your JWT secret key.
 
-4. Run `npm run dev` to start the development server.
+4. Start the development server using `npm run dev`.
